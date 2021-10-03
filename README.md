@@ -12,7 +12,7 @@ They may not be super helpful, but are interesting to be played around with.
 *Scroll to top of the page*
 ![top](/images/top.png)
 
-### Comments
+## Comments
 
 Eric Yang - All seems pretty useful, especially the check if an element is currently in focus
 
